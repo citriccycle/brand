@@ -1,0 +1,46 @@
+# Citric Cycle · matplotlib style · light (write-ups on paper). Validated categorical order: gold, cyan, violet, magenta.
+figure.facecolor: FFFFFF
+figure.edgecolor: FFFFFF
+axes.facecolor: FFFFFF
+axes.edgecolor: C9D4D7
+axes.labelcolor: 0B2A33
+axes.titlecolor: 0B2A33
+axes.prop_cycle: cycler('color', ['AF7C00', '1C96A8', '5B52C9', 'B8236F'])
+axes.grid: True
+axes.grid.axis: y
+grid.color: C9D4D7
+grid.linewidth: 0.8
+grid.alpha: 1.0
+axes.spines.top: False
+axes.spines.right: False
+axes.linewidth: 0.8
+axes.titlesize: 13
+axes.titleweight: bold
+axes.titlelocation: left
+axes.labelsize: 10.5
+axes.axisbelow: True
+xtick.color: 4F6B73
+ytick.color: 4F6B73
+xtick.labelsize: 9.5
+ytick.labelsize: 9.5
+xtick.direction: out
+ytick.direction: out
+xtick.major.size: 0
+ytick.major.size: 0
+lines.linewidth: 2.0
+lines.markersize: 7
+lines.markeredgewidth: 1.5
+lines.markeredgecolor: FFFFFF
+patch.linewidth: 0
+legend.frameon: False
+legend.fontsize: 9.5
+legend.labelcolor: 0B2A33
+text.color: 0B2A33
+font.family: monospace
+font.monospace: IBM Plex Mono, JetBrains Mono, DejaVu Sans Mono
+font.size: 10.5
+savefig.facecolor: FFFFFF
+savefig.edgecolor: FFFFFF
+savefig.dpi: 200
+figure.dpi: 110
+image.cmap: viridis

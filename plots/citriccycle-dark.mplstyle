@@ -1,0 +1,46 @@
+# Citric Cycle · matplotlib style · dark (video overlays, dark slides). Validated categorical order: gold, cyan, violet, magenta.
+figure.facecolor: 0B2A33
+figure.edgecolor: 0B2A33
+axes.facecolor: 0B2A33
+axes.edgecolor: 1C4A58
+axes.labelcolor: F4F6F5
+axes.titlecolor: F4F6F5
+axes.prop_cycle: cycler('color', ['A48200', '0094A2', '7971D0', 'C3518D'])
+axes.grid: True
+axes.grid.axis: y
+grid.color: 1C4A58
+grid.linewidth: 0.8
+grid.alpha: 1.0
+axes.spines.top: False
+axes.spines.right: False
+axes.linewidth: 0.8
+axes.titlesize: 13
+axes.titleweight: bold
+axes.titlelocation: left
+axes.labelsize: 10.5
+axes.axisbelow: True
+xtick.color: 8FB0B8
+ytick.color: 8FB0B8
+xtick.labelsize: 9.5
+ytick.labelsize: 9.5
+xtick.direction: out
+ytick.direction: out
+xtick.major.size: 0
+ytick.major.size: 0
+lines.linewidth: 2.0
+lines.markersize: 7
+lines.markeredgewidth: 1.5
+lines.markeredgecolor: 0B2A33
+patch.linewidth: 0
+legend.frameon: False
+legend.fontsize: 9.5
+legend.labelcolor: F4F6F5
+text.color: F4F6F5
+font.family: monospace
+font.monospace: IBM Plex Mono, JetBrains Mono, DejaVu Sans Mono
+font.size: 10.5
+savefig.facecolor: 0B2A33
+savefig.edgecolor: 0B2A33
+savefig.dpi: 200
+figure.dpi: 110
+image.cmap: viridis
